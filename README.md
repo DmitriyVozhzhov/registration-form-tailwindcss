@@ -1,0 +1,1 @@
+# Registration form markup with Tailwind CSS
